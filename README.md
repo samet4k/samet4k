@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @samet4k
-- 👀 I’m interested in tech and space
-- 🌱 I’m currently learning electronics
-- 💞️ I’m looking to collaborate on
-
-<!---
-samet4k/samet4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My curiosity, which began with taking apart devices as a kid, has grown into a deep drive for research and learning. I’m constantly improving my knowledge and skills, working on innovative solutions for the future of technology while strengthening my teamwork and leadership abilities. I strive to introduce young people to science and aim for big goals like space exploration and humanity becoming a multi-planetary species.
